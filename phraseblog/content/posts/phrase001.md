@@ -2,6 +2,7 @@
 title: "You find my Phrase!"
 date: 2022-03-18T14:13:53+08:00
 draft: false
+password: '000'
 ---
 
 ## Phrase

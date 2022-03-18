@@ -1,4 +1,17 @@
 baseURL = 'https://ttig217.github.io/phrase/'
-languageCode = 'en-tw'
+languageCode = 'zh-tw'
 title = 'imToken Phrase Blog'
+author = 'Irara'
 theme = 'contrast-hugo'
+
+[params]
+  minimal = false
+  excerpts = false
+  description = "my blog"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
