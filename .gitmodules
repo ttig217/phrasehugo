@@ -1,0 +1,7 @@
+[submodule "phraseblog/themes/contrast-hugo"]
+	path = phraseblog/themes/contrast-hugo
+	url = https://github.com/niklasbuschmann/contrast-hugo.git
+[submodule "phraseblog/public"]
+	path = phraseblog/public
+	url = https://github.com/ttig217/phrase.git
+	branch = main

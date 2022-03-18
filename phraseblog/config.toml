@@ -1,0 +1,4 @@
+baseURL = 'https://ttig217.github.io/phrase/'
+languageCode = 'en-tw'
+title = 'imToken Phrase Blog'
+theme = 'contrast-hugo'
