@@ -8,10 +8,3 @@ theme = 'contrast-hugo'
   minimal = false
   excerpts = false
   description = "my blog"
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
